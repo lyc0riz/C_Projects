@@ -1,2 +1,2 @@
-# C_Projects
+# C Projects
 Making this to store my C projects
