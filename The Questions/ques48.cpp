@@ -1,0 +1,1 @@
+// WAP to generate table using goto statement

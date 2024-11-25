@@ -3,7 +3,7 @@
 #include <studio.h> 
 #include <conio.h>
 
-void main() // void doesn't reqire return value for main
+void main() // void doesn't require return value for main
 {    
     printf("Rijul Kushvaha");
 

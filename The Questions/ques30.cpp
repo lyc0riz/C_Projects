@@ -1,0 +1,1 @@
+// WAP to find a greater number from given 3 numbers using switch case

@@ -1,0 +1,1 @@
+// WAP to calculate Compound Intrest
