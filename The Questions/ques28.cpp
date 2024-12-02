@@ -1,4 +1,5 @@
 // WAP to find the greater from two given numbers using switch case
+<<<<<<< HEAD
 
 #include <stdio.h>
 #include <conio.h>
@@ -30,3 +31,5 @@ switch(num1>num2)
 }
 getch();
 }
+=======
+>>>>>>> b48bcb8ef1da5c0d54abf8e730a4d8e74cd22360
